@@ -71,4 +71,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viccichithiago-dev&show_icons=true&theme=dark&cache_seconds=1800" alt="stats graph" height="
+  <img src="https://github-readme-stats.vercel.app/api?username=viccichithiago-dev&show_icons=true&theme=dark&cache_seconds=1800" alt="stats graph" height="150" />
+  <img src="https://streak-stats.demolab.com?user=viccichithiago-dev&theme=dark&cache_seconds=1800" alt="streak graph" height="150" />
+</div>
