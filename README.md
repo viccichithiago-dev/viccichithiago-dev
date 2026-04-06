@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/782363646483365918" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="cathiagoviccichi@gmail.com" target="_blank">
+  <a href="mailto:cathiagoviccichi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -71,7 +71,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=viccichithiago-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=viccichithiago-dev&show_icons=true&theme=dark" alt="stats graph" height="150" />
+  <img src="https://streak-stats.demolab.com?user=viccichithiago-dev&theme=dark" alt="streak graph" height="150" />
 </div>
-
-###
